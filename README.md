@@ -75,3 +75,16 @@ smart-erp-project/
 ## Environment Variables
 
 See `backend/.env.example` for required variables. Never commit `.env` files.
+
+## ScreenShots
+
+1. **Super Admin:**
+   <img width="1904" height="1035" alt="Screenshot 2026-03-26 122739" src="https://github.com/user-attachments/assets/53690ef6-53b1-49ac-8baf-fb9b49749b34" />
+2. **Teacher:**
+   <img width="1901" height="1032" alt="Screenshot 2026-03-26 122716" src="https://github.com/user-attachments/assets/c51cef82-bc5b-4284-bdbd-a56c9f6ae04a" />
+3. **Student:**
+   <img width="1918" height="1029" alt="Screenshot 2026-03-26 122802" src="https://github.com/user-attachments/assets/8ccbc6c0-2d02-427f-a99f-9f0cf1e5665e" />
+
+   
+
+  
