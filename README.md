@@ -63,7 +63,7 @@ smart-erp-project/
 
 ### Default Login (after seeding)
 
-- **Super Admin:** `admin@smart-erp.com` / `admin123` (after `npm run seed`)
+- **Super Admin:** `admin@gmail.com` / `admin123` (after `npm run seed`)
 - **Teacher / Student:** Create via Admin dashboard (Students / Teachers), then log in with that email and role.
 
 ## Roles
